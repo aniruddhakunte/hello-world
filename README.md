@@ -1,2 +1,3 @@
 # hello-world
-This is my first github repository
+
+Aniruddha here, I am currently working on nodejs, angular and typescript
